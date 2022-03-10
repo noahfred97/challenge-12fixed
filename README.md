@@ -6,7 +6,6 @@
   - <a href="#installation">Installation</a>
   - <a href="#usage">Usage</a>
   - <a href="#contributing">Contributing</a>
-  - <a href="#questions">Questions</a>
   ## Installation
   ### Input your mysql password into the connection.js and run node index.js in terminal to see an example of this managed workplace.
   ## Usage
